@@ -12,7 +12,7 @@ body {
     font-family: 'Montserrat', sans-serif;
 }
 .backgroung img {
-    max-width: 100%;
+    width: 100%;
     height: calc(100% + 1px);
     position: fixed;
     background-size: contain;
